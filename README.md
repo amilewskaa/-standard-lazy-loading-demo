@@ -6,5 +6,5 @@
 
 Demo of lazy loading usage based on two modules:
 
-[*] module-1 is is eagerly loaded
-[*] module-2 is is lazy loaded
+- module-1 is is eagerly loaded
+- module-2 is is lazy loaded
